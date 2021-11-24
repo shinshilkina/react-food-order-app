@@ -25,4 +25,6 @@ const DUMMY_MEALS = [
   },
 ];
 
-export { DUMMY_MEALS };
+const API = 'https://food-order-app-4cfcc-default-rtdb.firebaseio.com/';
+
+export { DUMMY_MEALS, API };
